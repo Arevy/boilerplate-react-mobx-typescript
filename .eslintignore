@@ -1,0 +1,12 @@
+node_modules
+storybook-static
+dist
+.eslintrc.js
+*.scss
+*.html
+*.jpg
+*.png
+*.svg
+*.json
+*.txt
+*.md
